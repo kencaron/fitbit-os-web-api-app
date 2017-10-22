@@ -1,0 +1,32 @@
+text {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+  fill: fb-black;
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+}
+
+.message-bar-background {
+  opacity: 0.5;
+  fill: fb-black;
+  width: 100%;
+  height: 100%;
+}
+
+.message-top {
+  width: 100%;
+  height: 14%;
+  x: 0;
+  y: 0;
+}
+
+.message-text {
+  fill: fb-white;
+  text-anchor: middle;
+  x: 50%
+}

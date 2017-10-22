@@ -1,0 +1,10 @@
+{
+  "fitbit": {
+    "appUUID": "a0aa608c-4626-42ec-8cad-d65d175c1eca",
+    "appType": "app",
+    "appDisplayName": "Fitbit Web API App",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#4caf50",
+    "requestedPermissions": []
+  }
+}

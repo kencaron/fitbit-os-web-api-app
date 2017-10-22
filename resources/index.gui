@@ -1,0 +1,13 @@
+<svg>
+  <defs>
+    <symbol id="status-bar">
+      <svg id="svg-status-bar">
+        <rect class="message-bar-background" id="status-bar-background" />
+        <text class="message-text" id="status-message-text">Loading...</text>
+      </svg>
+    </symbol>
+  </defs>
+  
+  <use href="#status-bar" class="message-top" id="status-message"/> 
+
+</svg>
